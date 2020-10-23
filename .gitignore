@@ -1,0 +1,27 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.svn/
+bin/
+
+# Intellij
+.idea/
+*.ipr
+*.iml
+*.iws
+.idea
+out/
+.DS_Store
+/bootstrap
+/dependencies.xml
+.java-version
+
+# Mac
+.DS_Store
+
+# Maven
+.flattened-pom.xml
+log/
+target/
+gen/
